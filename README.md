@@ -1,13 +1,13 @@
 ## Steps to Reproduce
+```
+git clone https://github.com/jkdowdle/creact-react-app-3.0.0-next.68-test-coverage-issue.git
 
-`git clone https://github.com/jkdowdle/creact-react-app-3.0.0-next.68-test-coverage-issue.git`
+cd creact-react-app-3.0.0-next.68-test-coverage-issue
 
-`cd creact-react-app-3.0.0-next.68-test-coverage-issue`
+yarn
 
-`yarn`
-
-`yarn test --coverage`
-
+yarn test --coverage
+```
 or
 
 `npx create-react-app@next --scripts-version=3.0.0-next.68 app-name && cd $_ && yarn test --coverage`
