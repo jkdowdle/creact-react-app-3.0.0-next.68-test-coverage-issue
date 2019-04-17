@@ -1,11 +1,8 @@
 ## Steps to Reproduce
 ```
 git clone https://github.com/jkdowdle/creact-react-app-3.0.0-next.68-test-coverage-issue.git
-
 cd creact-react-app-3.0.0-next.68-test-coverage-issue
-
 yarn
-
 yarn test --coverage
 ```
 or
