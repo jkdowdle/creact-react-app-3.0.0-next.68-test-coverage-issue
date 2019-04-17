@@ -13,7 +13,7 @@ or
 `npx create-react-app@next --scripts-version=3.0.0-next.68 app-name && cd $_ && yarn test --coverage`
 
 ## Error
-
+```
 No tests found related to files changed since last commit.
 Press `a` to run all tests, or run Jest with `--watchAll`.
 ----------|----------|----------|----------|----------|-------------------|
@@ -29,7 +29,7 @@ Watch Usage
 › Press p to filter by a filename regex pattern.
 › Press t to filter by a test name regex pattern.
 › Press Enter to trigger a test run.
-
+```
 ## Expected
 
 Expected it to run the tests with a coverage report and not enter watch mode.
